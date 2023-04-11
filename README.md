@@ -18,13 +18,13 @@
 
 ## 目录
 ### 比赛原始数据集
--   [训练集](competition origin data/train.csv)
--   [测试集](competition origin data/test.csv)
--   [数据描述](competition origin data/data_description.txt)
--   [提交样例](competition origin data/sample_submission.csv)
+- [训练集](/competition origin data/train.csv)
+- [测试集](/competition origin data/test.csv)
+- [数据描述](/competition origin data/data_description.txt)
+- [提交样例](/competition origin data/sample_submission.csv)
 ### 特征工程后的数据集
--   [特征工程训练集](new data/train_data_new.csv)
--   [特征工程测试集](new data/test_data_new.csv)
+- [特征工程训练集](/new data/train_data_new.csv)
+- [特征工程测试集](/new data/test_data_new.csv)
 ### 代码
 -   [探索性数据分析](探索性数据分析.ipynb)
 -   [特征工程](特征工程.ipynb)
