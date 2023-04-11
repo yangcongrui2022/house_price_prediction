@@ -22,27 +22,20 @@
 -   [测试集](/competition origin data/test.csv)
 -   [数据描述](/competition origin data/data_description.txt)
 -   [提交样例](/competition origin data/sample_submission.csv)
-
-### 特征工程后的数据集
 -   [特征工程训练集](/new data/train_data_new.csv)
 -   [特征工程测试集](/new data/test_data_new.csv)
-
-### 项目代码
 -   [探索性数据分析](探索性数据分析.ipynb)
 -   [特征工程](特征工程.ipynb)
 -   [模型调参](模型调参.ipynb)
 -   [模型训练](模型训练.ipynb)
 
 
-- 🔭 I’m currently working on [kaggle competition](https://github.com/yangcongrui2022/house_price_prediction)
+1. 🔭 I’m currently working on [kaggle competition](https://github.com/yangcongrui2022/house_price_prediction)
 
-- 📝 I regularly write articles on [知乎](https://www.zhihu.com/people/ycr-84)
+2. 📝 I regularly write articles on [知乎](https://www.zhihu.com/people/ycr-84)
 
-- 📫 How to reach me **yangcongrui2022@gmail.com**
+3. 📫 How to reach me **yangcongrui2022@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
