@@ -11,26 +11,10 @@
 
 **Keywords:** Python, Machine Learning, Kaggle
 
-## 站点
+## 一些信息
 
 -   personal blog: ycr-story.cn
 -   GitHub Pages: https://github.com/yangcongrui2022/house_price_prediction
-
-## 目录
-### 比赛原始数据集
-- [训练集](/competition origin data/train.csv)
-- [测试集](/competition origin data/test.csv)
-- [数据描述](/competition origin data/data_description.txt)
-- [提交样例](/competition origin data/sample_submission.csv)
-### 特征工程后的数据集
-- [特征工程训练集](/new data/train_data_new.csv)
-- [特征工程测试集](/new data/test_data_new.csv)
-### 代码
--   [探索性数据分析](探索性数据分析.ipynb)
--   [特征工程](特征工程.ipynb)
--   [模型调参](模型调参.ipynb)
--   [模型训练](模型训练.ipynb)
-
 
 - 🔭 I’m currently working on [kaggle competition](https://github.com/yangcongrui2022/house_price_prediction)
 
