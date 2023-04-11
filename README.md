@@ -33,9 +33,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yangcongrui2022&label=Profile%20views&color=0e75b6&style=flat" alt="yangcongrui2022" /> </p>
 
-- 🔭 I’m currently working on [kaggle](https://github.com/yangcongrui2022/leetcode_note)
+- 🔭 I’m currently working on [kaggle competition](https://github.com/yangcongrui2022/house_price_prediction)
 
-- 📝 I regularly write articles on [ZhiHu](https://www.zhihu.com/people/ycr-84)
+- 📝 I regularly write articles on [知乎](https://www.zhihu.com/people/ycr-84)
 
 - 📫 How to reach me **yangcongrui2022@gmail.com**
 
@@ -44,6 +44,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yangcongrui2022&" alt="yangcongrui2022" /></p>
+
